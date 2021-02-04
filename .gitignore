@@ -19,6 +19,10 @@ config/active.dat
 config/config.json
 /plugins
 
+# SSL stuff
+mattermost.local.crt
+mattermost.local.key
+
 # Enterprise imports file
 imports/imports.go
 
